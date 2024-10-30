@@ -9,7 +9,9 @@
 var myVar = "Hello, kitty!";
 ```
 
-
+- [X] See cat
+- [ ] Adopt cat
+- [ ] Live with cat
 Acrescentado header
 
 
